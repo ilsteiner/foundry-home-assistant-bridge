@@ -1,0 +1,6 @@
+[submodule "home-assistant-connect"]
+	path = home-assistant-connect
+	url = https://github.com/ilsteiner/home-assistant-connect.git
+[submodule "foundryvtt-connect"]
+	path = foundryvtt-connect
+	url = https://github.com/ilsteiner/foundryvtt-connect.git
